@@ -1,0 +1,90 @@
+.header_top {
+    height: 52px;
+    align-items: center;
+    justify-content: space-between !important;
+
+    .free_link {
+        padding: 5px 28px 6px 50px;
+        border-radius: 15px;
+        background-image: linear-gradient(285.39deg, #ffb800 -4.36%, #fff173 115.87%);
+        font-weight: 600;
+        color: #090f1e;
+        position: relative;
+        text-decoration: none;
+        align-items: center;
+        line-height: 1;
+        cursor: pointer;
+
+        .money_img {
+            background-image: url("https://cdn-1win.xyz/img/free-money-link-image.ac893118-120.png");
+            display: "block";
+            width: 60px;
+            height: 33px;
+            position: absolute;
+            bottom: 0;
+            left: -6px;
+            background-size: 100%;
+            background-repeat: no-repeat;
+            pointer-events: none;
+        }
+    }
+
+    .top_promotion {
+        margin-right: 21px;
+        position: relative;
+        &:before {
+            content: "";
+            display: block;
+            height: 14px;
+            width: 1px;
+            background: hsla(0, 0%, 100%, 0.2);
+            position: absolute;
+            right: -10px;
+            top: calc(50% - 7px);
+        }
+
+        .top_BonusLink {
+            height: 24px;
+            display: -webkit-box;
+            display: flex;
+            -webkit-box-align: center;
+            align-items: center;
+            border-radius: 13px;
+            background-color: rgba(78, 93, 134, 0.3);
+            border-bottom-left-radius: 30px;
+            border-top-left-radius: 30px;
+            position: relative;
+            cursor: pointer;
+            flex-direction: row;
+
+            .top_circle {
+                height: 28px;
+                width: 28px;
+                background: -webkit-linear-gradient(3.63deg, #d062ff 2.96%, #7bb0ff 99.68%),
+                    -webkit-linear-gradient(left, #ed6ea0, #ec8c69);
+                background: linear-gradient(86.37deg, #d062ff 2.96%, #7bb0ff 99.68%),
+                    linear-gradient(90deg, #ed6ea0, #ec8c69);
+                box-shadow: 0 5px 15px rgb(201 85 255 / 40%);
+                border-radius: 50%;
+                display: -webkit-box;
+                display: flex;
+                -webkit-box-pack: center;
+                justify-content: center;
+                -webkit-box-align: end;
+                align-items: flex-end;
+                margin-right: 10px;
+                padding-bottom: 7px;
+            }
+
+            .top_bonus_img {
+                position: absolute;
+                height: 54px;
+                -webkit-transform: rotate(-13deg);
+                transform: rotate(-13deg);
+                right: -17px;
+                top: -17px;
+                pointer-events: none;
+            }
+        }
+    }
+}

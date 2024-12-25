@@ -1,0 +1,15 @@
+{
+
+"port":"12087/arcade",
+
+"host":"winnerslots.live",
+"prefix":"https://",
+
+"host_ws":"winnerslots.live",
+"prefix_ws":"wss://",
+
+"ssl":true,
+
+"timezone":"Europe/Berlin"
+
+}

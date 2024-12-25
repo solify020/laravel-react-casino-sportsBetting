@@ -1,0 +1,66 @@
+@keyframes slider {     
+  0% { left: 0; opacity: 0; }     
+  2% { opacity: 1; }     
+  20% { left: 0; opacity: 1; }     
+  21% { opacity: 0; }     
+  24% { opacity: 0; }     
+  25% { left: -768px; opacity: 1; }     
+  45% { left: -768px; opacity: 1; }     
+  46% { opacity: 0; }     
+  48% { opacity: 0; }     
+  50% { left: -1536px; opacity: 1; }     70% { left: -1536px; opacity: 1; }     72% { opacity: 0; }     
+  74% { opacity: 0; }    
+  75% { left: -2304px; opacity: 1; }   	
+  95% { left: -2304px; opacity: 1; }   	
+  97%  { left: -2304px; opacity: 0; }   	
+  100% { left: 0; opacity: 0; }
+} 
+
+body { background: #000; } 
+
+div#slidercontainer { 
+  position: relative; 
+  overflow: hidden; 
+  background: #000 
+}
+div#slidercontainer { 
+  width: 764px;
+  height: 341px; 
+}
+
+div#sider img { 
+  width: 768px;
+  height: 341px; 
+  float: left;
+}
+
+div#css3slider { 
+  position: absolute; 
+  width:3900px;  
+  animation-name:slider;
+  animation-duration:15s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count:infinite;
+}
+
+div#css3slider:hover { 
+  animation-play-state:paused; }
+}
+
+div#css3slider img { 
+  float: right; 
+}
+
+div#slidercontainer:after { 
+  content: "❚❚"; 
+  font-size: 150px; 
+  position: absolute; 
+  z-index: 12; 
+  color: rgba(255,255,255, 0); 
+  left: 300px; top: 80px; 
+  transition: 1s all ease-in-out; 
+}
+
+div#slidercontainer:hover:after { 
+  color: rgba(255,255,255, 0.6);  
+}

@@ -1,0 +1,172 @@
+{"frames": {
+
+"9_A":
+{
+	"frame": {"x":262,"y":1,"w":104,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":37,"w":104,"h":143},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_B":
+{
+	"frame": {"x":391,"y":1,"w":108,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":34,"w":108,"h":148},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_C":
+{
+	"frame": {"x":349,"y":896,"w":116,"h":160},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":28,"w":116,"h":160},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_D":
+{
+	"frame": {"x":1,"y":896,"w":124,"h":172},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":22,"w":124,"h":172},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_E":
+{
+	"frame": {"x":1,"y":1,"w":129,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":19,"w":129,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_F":
+{
+	"frame": {"x":1,"y":180,"w":129,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":19,"w":129,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_G":
+{
+	"frame": {"x":1,"y":359,"w":129,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":19,"w":129,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_H":
+{
+	"frame": {"x":1,"y":538,"w":128,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":128,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_I":
+{
+	"frame": {"x":1,"y":717,"w":128,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":128,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_J":
+{
+	"frame": {"x":131,"y":538,"w":128,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":128,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_K":
+{
+	"frame": {"x":131,"y":717,"w":128,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":128,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_L":
+{
+	"frame": {"x":132,"y":1,"w":128,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":128,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_M":
+{
+	"frame": {"x":132,"y":180,"w":128,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":128,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_N":
+{
+	"frame": {"x":132,"y":359,"w":128,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":128,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_O":
+{
+	"frame": {"x":261,"y":538,"w":128,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":128,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_P":
+{
+	"frame": {"x":261,"y":717,"w":128,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":19,"w":128,"h":177},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_Q":
+{
+	"frame": {"x":175,"y":896,"w":124,"h":172},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":22,"w":124,"h":172},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_R":
+{
+	"frame": {"x":511,"y":1,"w":116,"h":160},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":28,"w":116,"h":160},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_S":
+{
+	"frame": {"x":391,"y":1,"w":108,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":34,"w":108,"h":148},
+	"sourceSize": {"w":222,"h":222}
+},
+"9_T":
+{
+	"frame": {"x":262,"y":1,"w":104,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":37,"w":104,"h":143},
+	"sourceSize": {"w":222,"h":222}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "9.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9cfcf530ec792fa8f573121d13ce35df:e4055991767435c41f435cbd38b78f69:005cfeeecdb881bde464c140babce266$"
+}
+}

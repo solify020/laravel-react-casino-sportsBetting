@@ -1,0 +1,48 @@
+<svg data-v-ac8a410e="" xmlns="http://www.w3.org/2000/svg" width="105" height="105" viewBox="0 0 105 105" aria-hidden="true" role="img" class="icon icon icon-home-tvbet sm" icon="home/tvbet">
+                                                        <defs>
+                                                            <linearGradient id="tvbet_svg__a" x1="18.605%" x2="55.243%" y1="-12.811%" y2="58.963%">
+                                                                <stop offset="0%" stop-color="#FDD205"></stop>
+                                                                <stop offset="100%" stop-color="#FF9206"></stop>
+                                                            </linearGradient>
+                                                            <linearGradient id="tvbet_svg__b" x1="46.772%" x2="48.039%" y1="426.101%" y2="281.666%">
+                                                                <stop offset="0%" stop-color="#FDD205"></stop>
+                                                                <stop offset="100%" stop-color="#FF9206"></stop>
+                                                            </linearGradient>
+                                                            <linearGradient id="tvbet_svg__c" x1="48.128%" x2="48.951%" y1="321.007%" y2="205.242%">
+                                                                <stop offset="0%" stop-color="#FDD205"></stop>
+                                                                <stop offset="100%" stop-color="#FF9206"></stop>
+                                                            </linearGradient>
+                                                            <linearGradient id="tvbet_svg__d" x1="-10.313%" x2="9.653%" y1="1779.48%" y2="1211.739%">
+                                                                <stop offset="0%" stop-color="#FDD205"></stop>
+                                                                <stop offset="100%" stop-color="#FF9206"></stop>
+                                                            </linearGradient>
+                                                            <linearGradient id="tvbet_svg__e" x1="1447.774%" x2="1466.642%" y1="-200.888%" y2="-268.134%">
+                                                                <stop offset="0%" stop-color="#FDD205"></stop>
+                                                                <stop offset="100%" stop-color="#FF9206"></stop>
+                                                            </linearGradient>
+                                                            <linearGradient id="tvbet_svg__f" x1="35.049%" x2="42.338%" y1="766.601%" y2="422.725%">
+                                                                <stop offset="0%" stop-color="#FDD205"></stop>
+                                                                <stop offset="100%" stop-color="#FF9206"></stop>
+                                                            </linearGradient>
+                                                            <linearGradient id="tvbet_svg__g" x1="37.284%" x2="44.572%" y1="656.329%" y2="312.453%">
+                                                                <stop offset="0%" stop-color="#FDD205"></stop>
+                                                                <stop offset="100%" stop-color="#FF9206"></stop>
+                                                            </linearGradient>
+                                                            <linearGradient id="tvbet_svg__h" x1="42.595%" x2="45.485%" y1="616.503%" y2="400.443%">
+                                                                <stop offset="0%" stop-color="#FDD205"></stop>
+                                                                <stop offset="100%" stop-color="#FF9206"></stop>
+                                                            </linearGradient>
+                                                        </defs>
+                                                        <g fill="none">
+                                                            <path fill="url(#tvbet_svg__a)" d="M66.53 103.108H37.214a2.263 2.263 0 01-2.019-1.223L.221 32.452a2.128 2.128 0 01.122-2.102 2.273 2.273 0 011.897-1.026h30.306a2.262 2.262 0 012.037 1.24l33.965 69.434c.326.673.275 1.46-.133 2.09a2.273 2.273 0 01-1.886 1.02z">
+                                                            </path>
+                                                            <path fill="url(#tvbet_svg__b)" d="M75.475.945h1.75c1.2.001 2.172.974 2.172 2.174l.01 20.323c0 1.21-.978 2.19-2.187 2.189l-1.75-.001a2.193 2.193 0 01-2.19-2.191l-.01-20.305A2.185 2.185 0 0175.475.945z" transform="rotate(23.74 76.34 13.288)"></path>
+                                                            <path fill="url(#tvbet_svg__c)" d="M82.795 11.84l1.75.002a2.19 2.19 0 012.19 2.19l.013 26.438a2.223 2.223 0 01-2.222 2.224l-1.75-.001a2.191 2.191 0 01-2.19-2.191l-.013-26.472a2.19 2.19 0 012.223-2.19z" transform="rotate(23.74 83.66 27.267)"></path>
+                                                            <path fill="url(#tvbet_svg__d)" d="M92.018 1.051l3.662.002c.69.001 1.249.56 1.25 1.25l.002 3.667c.002.69-.558 1.25-1.248 1.251l-.001-.001-3.662-.002a1.252 1.252 0 01-1.25-1.25L90.769 2.3a1.247 1.247 0 011.248-1.25l.001.001z" transform="rotate(23.74 93.85 4.135)"></path>
+                                                            <path fill="url(#tvbet_svg__e)" d="M83.95 49.484l2.025-4.744c.481-1.14-.022-2.465-1.127-2.97l-1.92-.868c-.968-.431-2.092.022-2.518 1.014l-3.03 7.061-5.477 12.82c-.49 1.136-1.78 1.653-2.889 1.159l-1.655-.743c-1.105-.503-1.608-1.829-1.127-2.97l5.477-12.819 7.292-16.984c.48-1.14-.023-2.466-1.128-2.97l-1.655-.742c-1.11-.494-2.398.023-2.889 1.159l-7.256 17.038-2.413 5.632c-.49 1.136-1.78 1.653-2.888 1.158l-1.656-.742c-1.109-.494-2.398.023-2.888 1.159l-21.664 50.7a2.319 2.319 0 00.173 2.14A2.188 2.188 0 0036.572 105H65.21c.868 0 1.654-.526 2.008-1.34l20.924-47.947c.165-.38.176-.81.03-1.198a1.534 1.534 0 00-.805-.866l-2.272-1.032a2.234 2.234 0 01-1.246-1.307 2.324 2.324 0 01.1-1.826z">
+                                                            </path>
+                                                            <path fill="url(#tvbet_svg__f)" d="M89.265 35.99l3.661.001c.69.002 1.249.561 1.25 1.251l.004 7.784c.002.69-.557 1.25-1.248 1.25h-.001l-3.661-.002a1.253 1.253 0 01-1.25-1.251l-.005-7.784a1.248 1.248 0 011.248-1.25h.002z" transform="rotate(23.74 91.098 41.132)"></path>
+                                                            <path fill="url(#tvbet_svg__g)" d="M62.406 35.786l3.662.001c.69.002 1.249.561 1.25 1.251l.004 7.784c.002.69-.558 1.25-1.248 1.25h-.001l-3.662-.002a1.253 1.253 0 01-1.25-1.251l-.004-7.784a1.247 1.247 0 011.248-1.25h.001z" transform="rotate(23.74 64.24 40.929)"></path>
+                                                            <path fill="url(#tvbet_svg__h)" d="M97.01 15.203l3.662.002c.69.001 1.25.56 1.25 1.25l.008 13.951c.001.69-.558 1.25-1.249 1.25l-3.662-.002a1.253 1.253 0 01-1.25-1.251l-.008-13.95a1.249 1.249 0 011.249-1.251z" transform="rotate(23.74 98.845 23.43)"></path>
+                                                        </g>
+                                                    </svg>

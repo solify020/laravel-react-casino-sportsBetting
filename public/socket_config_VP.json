@@ -1,0 +1,13 @@
+{
+
+"port":"12053/vp_fish",
+
+"host":"winnerslots.live",
+"prefix":"https://",
+
+"host_ws":"winnerslots.live",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}

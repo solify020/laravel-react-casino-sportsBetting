@@ -1,0 +1,172 @@
+{"frames": {
+
+"10_A":
+{
+	"frame": {"x":670,"y":315,"w":136,"h":146},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":37,"w":136,"h":146},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_B":
+{
+	"frame": {"x":670,"y":172,"w":141,"h":152},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":34,"w":141,"h":152},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_C":
+{
+	"frame": {"x":504,"y":172,"w":153,"h":164},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":28,"w":153,"h":164},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_D":
+{
+	"frame": {"x":172,"y":721,"w":164,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":22,"w":164,"h":176},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_E":
+{
+	"frame": {"x":1,"y":1,"w":169,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_F":
+{
+	"frame": {"x":1,"y":184,"w":169,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_G":
+{
+	"frame": {"x":1,"y":367,"w":169,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_H":
+{
+	"frame": {"x":1,"y":550,"w":169,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_I":
+{
+	"frame": {"x":1,"y":733,"w":169,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_J":
+{
+	"frame": {"x":172,"y":1,"w":169,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_K":
+{
+	"frame": {"x":355,"y":1,"w":169,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_L":
+{
+	"frame": {"x":538,"y":1,"w":169,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_M":
+{
+	"frame": {"x":721,"y":1,"w":169,"h":181},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_N":
+{
+	"frame": {"x":172,"y":172,"w":169,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_O":
+{
+	"frame": {"x":172,"y":355,"w":169,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_P":
+{
+	"frame": {"x":172,"y":538,"w":169,"h":181},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":19,"w":169,"h":181},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_Q":
+{
+	"frame": {"x":338,"y":721,"w":164,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":22,"w":164,"h":176},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_R":
+{
+	"frame": {"x":343,"y":172,"w":153,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":28,"w":153,"h":164},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_S":
+{
+	"frame": {"x":824,"y":172,"w":141,"h":152},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":34,"w":141,"h":152},
+	"sourceSize": {"w":222,"h":222}
+},
+"10_T":
+{
+	"frame": {"x":670,"y":315,"w":136,"h":146},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":37,"w":136,"h":146},
+	"sourceSize": {"w":222,"h":222}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "10.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d5cfc83df2a2ea845b19e821fdc2d74f:f63ac8ca9c38d7ee0aa60422f41113bd:e2c9be1b49d03cc38aafeff96da146a7$"
+}
+}

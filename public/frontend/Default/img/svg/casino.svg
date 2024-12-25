@@ -1,0 +1,14 @@
+<svg data-v-ac8a410e="" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" aria-hidden="true" role="img" class="icon menu__list-item-icon icon icon-home-casino sm" icon="home/casino" style="animation-duration: 0.32s; animation-delay: -0.4s;">
+                                                            <defs>
+                                                                <linearGradient id="casino_svg__a" x1="100%" x2="-65.737%" y1="29.018%" y2="150.856%">
+                                                                    <stop offset="0%" stop-color="#FF1764"></stop>
+                                                                    <stop offset="100%" stop-color="#5484F2"></stop>
+                                                                </linearGradient>
+                                                            </defs>
+                                                            <g fill="none">
+                                                                <path fill="url(#casino_svg__a)" d="M15 30c8.284 0 15-6.716 15-15 0-8.284-6.716-15-15-15C6.716 0 0 6.716 0 15c0 8.284 6.716 15 15 15zm0-2.5C8.096 27.5 2.5 21.904 2.5 15S8.096 2.5 15 2.5 27.5 8.096 27.5 15 21.904 27.5 15 27.5z">
+                                                                </path>
+                                                                <path fill="#FFF" d="M15 5c5.514 0 10 4.486 10 10s-4.486 10-10 10S5 20.514 5 15 9.486 5 15 5zm-.385 4.393c-3.648 2.404-5.472 4.689-5.472 6.854a3.155 3.155 0 003.163 3.146 3.163 3.163 0 002.558-1.3c.015-.021-.204.667-.658 2.063a.2.2 0 00.19.262h1.207a.2.2 0 00.19-.262c-.451-1.395-.671-2.083-.659-2.066a3.161 3.161 0 002.56 1.303 3.155 3.155 0 003.163-3.146c0-2.097-1.712-4.307-5.135-6.629l-.337-.225a.7.7 0 00-.77 0z">
+                                                                </path>
+                                                            </g>
+                                                        </svg>
